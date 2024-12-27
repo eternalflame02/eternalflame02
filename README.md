@@ -45,7 +45,6 @@ Every project and learning path is a step toward mastering my craft and contribu
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)  
 
 - **Frameworks & Libraries**:  
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)  
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
   ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
