@@ -71,7 +71,7 @@ Every project and learning path is a step toward mastering my craft and contribu
 
 ## 📫 Let's Connect  
 - 📧 **Email**: rohithns2005@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohithns/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohith-n-s-here/)  
 - 🌐 [GitHub](https://github.com/eternalflame02)  
 
 Feel free to explore my repositories, contribute to my projects, and collaborate on exciting ideas!  
