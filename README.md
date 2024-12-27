@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science Student** from
 ## 🔭 Current Projects  
 - **College Chatbot**: Leveraging Named Entity Recognition (NER) for intelligent interactions.
   
----
+
 
 ## 🎯 Notable Projects  
 - **Kerala Weather App**: Fetch and manage real-time weather data for all districts in Kerala.  
