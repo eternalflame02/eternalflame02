@@ -50,7 +50,6 @@ Every project and learning path is a step toward mastering my craft and contribu
 
 - **Databases**:  
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
 
 - **Tools**:  
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)  
@@ -60,8 +59,8 @@ Every project and learning path is a step toward mastering my craft and contribu
 
 
 ## 📈 GitHub Stats
-![eternalflame02's GitHub stats](https://github-readme-stats.vercel.app/api?username=eternalflame02&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eternalflame02&layout=compact&theme=radical)  
+![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eternalflame02&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eternalflame02&layout=compact&theme=tokyonight)  
 
 ---
 
