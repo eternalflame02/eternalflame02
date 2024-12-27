@@ -45,7 +45,11 @@ Every project and learning path is a step toward mastering my craft and contribu
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)  
 
 - **Frameworks & Libraries**:  
-  ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven)  
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)  
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
+  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)  
   ![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-333333?style=flat&logo=artstation)  
 
 - **Databases**:  
@@ -53,8 +57,9 @@ Every project and learning path is a step toward mastering my craft and contribu
 
 - **Tools**:  
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)  
-  ![LM Studio](https://img.shields.io/badge/-LM%20Studio-333333?style=flat&logo=data:image/svg+xml;base64,[insert-svg])  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+  ![LM Studio](https://img.shields.io/badge/-LM%20Studio-333333?style=flat&logo=data:image/svg+xml;base64,[insert-svg])  
+
 
 
 
