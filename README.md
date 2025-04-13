@@ -1,72 +1,77 @@
-# 👋 Hello, I'm Rohith NS!
+# 👋 Hey there, I'm Rohith NS!
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science Student** from Kerala, India, with a keen interest in **IoT, AI, Data Structures**, and **Software Development**.
-
----
-
-## 🔭 Current Projects
-- **College Chatbot**: Leveraging Named Entity Recognition (NER) for intelligent interactions.
-
-## 🎯 Notable Projects
-- **Kerala Weather App**: Fetch and manage real-time weather data for all districts in Kerala.
-- **Emotion-Driven AI Poem Writer**: Using **AwanLLM** to generate poems based on emotional input.
+Welcome to my GitHub! I'm a curious and creative **Computer Science & AI student** from Kerala 🇮🇳, passionate about **AI, IoT, Data Structures**, and building **impactful tech solutions**.
 
 ---
 
-## 🌱 Learning & Exploring
+## 🚀 Current Focus
 
-I'm always curious and eager to expand my knowledge in diverse domains of technology. Here's what I'm diving into right now:
+- 🛡️ **Community Safety Dashboard** – A cross-platform app (web-version in progress) using **Flutter** with **Firebase Auth** and **MongoDB** backend to track and visualize safety issues and infrastructure needs. 👉 [GitHub Repo](https://github.com/eternalflame02/community_dashboard)
 
-- **AI & Machine Learning**:
-  - Experimenting with **AwanLLM** for an **Emotion-Driven AI Poem Writer**.
-  - Building AI-powered systems like chatbots using **NER** and exploring **Groq**.
-- **Creative Coding**:
-  - Leveraging **Stable Diffusion** for AI-generated art and innovative visualizations.
-  - Simulating natural phenomena like **gravity interactions** using **Python**.
-- **Software Development**:
-  - Refining my skills in Java and SQL by developing robust applications like the **Kerala Weather App**.
-- **Hackathons & Collaboration**:
-  - Engaging in team projects like **MediOS**, a healthcare app, to solve real-world problems through innovative tech solutions.
+- 🤖 **College Chatbot** – Built using **Named Entity Recognition (NER)** to offer intelligent and context-aware responses.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💡 Notable Projects
 
-- **Programming Languages**:
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-
-- **Frameworks & Libraries**:
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
-  ![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-333333?style=flat&logo=artstation)
-
-- **Databases**:
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-- **Tools**:
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![LM Studio](https://img.shields.io/badge/-LM%20Studio-333333?style=flat&logo=data:image/svg+xml;base64,[insert-svg])
+- ☀️ **Kerala Weather App** – Fetch, store, and search weather data for all Kerala districts using **Java + SQL**.
+- 📝 **Emotion-Driven AI Poem Writer** – Powered by **AwanLLM** for generating poetry based on user emotions.
+- 🏥 **MediOS (SIH Project)** – A healthcare app aimed at simplifying health data management and improving accessibility.
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Currently Exploring
+
+- **LLMs & AI APIs**:
+  - Experimenting with **Groq**, **Ollama**, and **LM Studio** for building responsive LLM-based tools.
+  - Playing with **Stable Diffusion** for AI-generated art and creativity.
+- **Neural Networks**:
+  - Learning neural nets from scratch with **NumPy** and math-based simulations like gravity interactions.
+- **Flutter + Firebase + MongoDB**:
+  - Building cross-platform apps and integrating real-time cloud services.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+
+**Frameworks & Tools**
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-333333?style=flat&logo=artstation)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Dev Tools**
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![LM Studio](https://img.shields.io/badge/-LM%20Studio-333333?style=flat&logo=data:image/svg+xml;base64,[insert-svg])
+
+---
+
+## 📊 GitHub Stats
+
 ![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eternalflame02&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eternalflame02&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect
-- 📧 **Email**: rohithns2005@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohith-n-s-here/)
-- 🌐 [GitHub](https://github.com/eternalflame02)
+## 📬 Let's Connect
 
-Feel free to explore my repositories, contribute to my projects, and collaborate on exciting ideas!
+- 📧 Email: [rohithns2005@gmail.com](mailto:rohithns2005@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohith-n-s-here/)
+- 💻 [GitHub](https://github.com/eternalflame02)
+
+> *“Learning never exhausts the mind.”* — *Leonardo da Vinci*
 
 ---
 
-**_"Learning never exhausts the mind."_ — Leonardo da Vinci**
+🎉 Thanks for stopping by! Feel free to explore my repos, raise issues, or collaborate on cool ideas
